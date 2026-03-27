@@ -1,0 +1,12 @@
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+chromadb>=0.4.24
+transformers
+sentence_transformers
+langdetect
+datasets
+numpy
+langchain_ollama
